@@ -39,7 +39,7 @@ XGBoost Classifier is trained with predefined parameters.
 
 Model performance is evaluated using accuracy, confusion matrix, classification report, and ROC-AUC score.
 
-# 9. Test Set Prediction:
+## 9. Test Set Prediction:
 
 The best-performing model (XGBoost Classifier) is utilized to make predictions on the test set (EV_X_test.csv).
 Predictions are saved to a DataFrame and exported as a CSV file following specific naming conventions.
